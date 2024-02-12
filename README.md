@@ -275,8 +275,8 @@ To run this project, you will need to add the following environment variables to
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Mohit_Sehrawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-negi-112293228)
-[![GitHub](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/RishiNegi?tab=repositories)
+[![linkedin](https://img.shields.io/badge/Rishi Negi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-negi-112293228)
+[![GitHub](https://img.shields.io/badge/Rishi Negi-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/RishiNegi?tab=repositories)
 
 © 2022 Rishi Negi
 
